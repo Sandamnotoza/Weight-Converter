@@ -1,0 +1,41 @@
+body{
+    padding:0 ;
+    margin: 0;
+    background-color: rgb(48, 45, 45);
+}
+h1{
+    color: #fff;
+    text-align: center;
+}
+input{
+    margin-bottom: 20px;
+}
+.button{
+    display: flex;
+    justify-content: center;
+    padding-bottom: 20px;
+}
+.btn{
+    border: solid cadetblue 2px;
+    border-radius: 10px;
+    background-color: grey;
+    color: white;
+    font-weight: bold;
+}
+.card{
+    padding: 10px;
+    margin-bottom: 5px;
+    color: #fff;
+}
+#pounds{
+    background: rgb(58, 58, 243);
+
+}
+
+#grams{
+    background: rgb(247, 67, 67);
+}
+
+#ounces{
+    background: rgb(40, 161, 40);
+}
